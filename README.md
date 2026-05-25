@@ -6,4 +6,4 @@
 - Western Purple Theme - Drupal design system
 - Western Bookstore & Print Services - Drupal custom modules & webforms
 - Best Practices - Accessibility Workshops
-- IAAP - Proof of certifications
+- ~~IAAP - Proof of certifications~~
